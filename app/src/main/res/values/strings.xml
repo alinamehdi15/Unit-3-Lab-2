@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="SeeMoreCommand">Check it out! </string>
+    <string name="check_it_out">Check It Out!</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_settings">Settings</string>
+</resources>
